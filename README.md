@@ -1,6 +1,11 @@
 # walmart-api-signature
 Simple app to get the signature needed for the Walmart API, in node.js
 
+## Run the app
+- npm install
+- npm start
+
+
 App runs in port 3000
 
 
